@@ -16,7 +16,7 @@ The implemented number of layers are reduced to 25% of the original paper.
 
 ## Original Model Architecture :
 
-![](https://github.com/sagnik1511/U-Net-Lowered-wiith-keras/blob/main/images/u-net-architecture.png)
+![](https://github.com/sagnik1511/U-Net-Reduced-with-keras/blob/main/images/u-net-architecture.png)
 
 ## Dataset :
 ---
@@ -119,9 +119,9 @@ We have performed operations to ceate the data directory like this :
 
  Taken single channels of both image and mask for training.
  
- ![](https://github.com/sagnik1511/U-Net-Lowered-with-keras/blob/main/images/train_data.png)
+ ![](https://github.com/sagnik1511/U-Net-Reduced-with-keras/blob/main/images/train_data.png)
  
- ![](https://github.com/sagnik1511/U-Net-Lowered-with-keras/blob/main/images/test_data.png)
+ ![](https://github.com/sagnik1511/U-Net-Reduced-with-keras/blob/main/images/test_data.png)
  
 ## Hyperparameters :
 
@@ -135,16 +135,16 @@ We have performed operations to ceate the data directory like this :
 
 ## Model Evaluation Metrics :
 
-   ![](https://github.com/sagnik1511/U-Net-Lowered-with-keras/blob/main/images/model_eval_metrics.png)
+   ![](https://github.com/sagnik1511/U-Net-Reduced-with-keras/blob/main/images/model_eval_metrics.png)
     
     
  #### Model Performance on Train Data :
  
- ![](https://github.com/sagnik1511/U-Net-Lowered-with-keras/blob/main/images/train_vis.png)
+ ![](https://github.com/sagnik1511/U-Net-Reduced-with-keras/blob/main/images/train_vis.png)
  
  #### Model Performance on Validation Data :
  
- ![](https://github.com/sagnik1511/U-Net-Lowered-with-keras/blob/main/images/val_vis.png)
+ ![](https://github.com/sagnik1511/U-Net-Reduced-with-keras/blob/main/images/val_vis.png)
  
  One task left : Will update the tutorial notebooks soon ;)
  
