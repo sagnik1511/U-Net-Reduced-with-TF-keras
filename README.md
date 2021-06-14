@@ -135,7 +135,7 @@ We have performed operations to ceate the data directory like this :
 
 ## Model Evaluation Metrics :
 
-   ![](https://github.com/sagnik1511/U-Net-Lowered-with-keras/blob/main/images/X_ray%20unet%20metrics.png)
+   ![](https://github.com/sagnik1511/U-Net-Lowered-with-keras/blob/main/images/model_eval_metrics.png)
     
     
  #### Model Performance on Train Data :
