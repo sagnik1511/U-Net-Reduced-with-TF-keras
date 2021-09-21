@@ -125,12 +125,12 @@ We have performed operations to ceate the data directory like this :
  
 ## Hyperparameters :
 
-          Image Shape : (512 , 512 , 1)
+          Image Shape : (512, 512, 1)
           Optimizer : Adam ( Learning Rate : 1e-4 )
           Loss : Binary Cross Entropy 
           Metrics : Accuracy
           Epochs on Training : 100
-          Train Validation Ratio : ( 85%-15% )
+          Train Validation Ratio : ( 85% - 15% )
           Batch Size : 10
 
 ## Model Evaluation Metrics :
